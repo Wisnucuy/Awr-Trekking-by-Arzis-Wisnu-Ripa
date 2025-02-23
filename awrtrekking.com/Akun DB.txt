@@ -1,0 +1,7 @@
+User:
+Username: user
+Password: user123
+
+Admin:
+Username: Admin
+Password: #admin123
